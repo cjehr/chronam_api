@@ -1,0 +1,1 @@
+Cycles through title records in the US Newspaper Directory. Saves a list of the LCCNs as a .csv file called LCCNs.csv in the directory the script was run from.
