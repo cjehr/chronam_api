@@ -1,0 +1,1 @@
+Downloads the PDF files of an advanced search from Chronicling America to the directory that the script is run from.
