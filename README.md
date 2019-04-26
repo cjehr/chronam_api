@@ -6,6 +6,8 @@ Information about the API is available at https://chroniclingamerica.loc.gov/abo
 
 2019_issue_counts_combined: Script to combine all the .csv files in a directory in one. Used to make one .csv files of the reuslts produced by the scripts in 2019_issue_counts.
 
+all_digitized: Creates a .csv file containing a list of all the digitized titles available in Chronicling America (https://chroniclingamerica.loc.gov/newspapers/). Order of title information is: State, LCCN, Title, Title URL, Issue count, First issue, Last issue, Place(s) of publication
+
 lccns: Scripts to download LCCN and title information of all the records in the US Newspaper Directory (https://chroniclingamerica.loc.gov/search/titles/)
 
 pdf_download: Script to download the .pdf versions of pages returned from a search of Chronicling America.
