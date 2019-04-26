@@ -1,0 +1,1 @@
+Creates a .csv of digitized titles in available in Chronicling America from the all digitized newspaper page (https://chroniclingamerica.loc.gov/newspapers/). Information is saved in the .csv in the following order: State, LCCN, Title, Title URL, Issue count, First issue, Last issue, Place(s) of publication.
