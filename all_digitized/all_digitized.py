@@ -64,8 +64,7 @@ for i in title_url_list:
     print(count)        
         
 # Save the all_digitized_titles list as a .csv file
-# Order of variables"
-# State, LCCN, Title, Title URL, Issue count, First issue, Last issue, Place(s) of publication
+# Order of variables: State, LCCN, Title, Title URL, Issue count, First issue, Last issue, Place(s) of publication
 with open('all_digitized.csv', 'w', encoding='utf-8', newline='') as csv_file:
     writer = csv.writer(csv_file)
     writer.writerows(all_digitized_titles)
